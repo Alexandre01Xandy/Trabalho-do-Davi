@@ -94,5 +94,9 @@ As alterações são revisadas antes de serem mescladas ao branch main.
 
 
 
+
 Projeto em desenvolvimento para fins acadêmicos e de aprendizado.
+
+Projeto concluído para fins acadêmicos.
+
 
