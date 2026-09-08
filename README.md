@@ -99,3 +99,11 @@ Os conteúdos foram organizados para facilitar o acompanhamento dos estudos.
 
 Durante a atividade foram praticados os comandos básicos do Git, incluindo init, add, commit, status, log e push.
 
+
+
+## Status do projeto
+
+
+
+A estrutura inicial do projeto foi concluída e o repositório está organizado no GitHub.
+
