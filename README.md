@@ -82,3 +82,12 @@ Projeto desenvolvido para fins acadêmicos e de aprendizado.
 
 
 
+
+
+
+## Organização
+
+
+
+Os conteúdos foram organizados para facilitar o acompanhamento dos estudos.
+
