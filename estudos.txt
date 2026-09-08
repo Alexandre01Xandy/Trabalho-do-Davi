@@ -1,0 +1,8 @@
+LISTA DE ESTUDOS
+
+1. HTML - estrutura de páginas web
+2. CSS - estilização de páginas
+3. JavaScript - programação para web
+4. Git - controle de versão
+5. GitHub - hospedagem de repositórios
+6. Lógica de programação - fundamentos
