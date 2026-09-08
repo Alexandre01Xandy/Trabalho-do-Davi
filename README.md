@@ -96,5 +96,5 @@ As alterações são revisadas antes de serem mescladas ao branch main.
 
 
 
-Projeto em desenvolvimento e em processo de revisão.
+Projeto concluído para fins acadêmicos.
 
