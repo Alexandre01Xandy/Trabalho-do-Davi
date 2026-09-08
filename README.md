@@ -89,3 +89,13 @@ Projeto desenvolvido para fins acadêmicos e de aprendizado.
 
 Os conteúdos foram organizados para facilitar o acompanhamento dos estudos.
 
+
+
+
+
+\## Aprendizados
+
+
+
+Durante a atividade foram praticados os comandos básicos do Git, incluindo init, add, commit, status, log e push.
+
