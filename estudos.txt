@@ -7,4 +7,4 @@ LISTA DE ESTUDOS
 5. GitHub - hospedagem de repositórios
 6. Lógica de programação - fundamentos
 7. Banco de dados - conceitos básicos
-8. Banco de dados - introdução
+8. Python - fundamentos da linguagem
