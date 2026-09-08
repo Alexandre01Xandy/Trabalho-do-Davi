@@ -92,9 +92,9 @@ As alterações são revisadas antes de serem mescladas ao branch main.
 
 
 
-<<<<<<< HEAD
+\## Status
 
-=======
 
->>>>>>> main
+
+Projeto em desenvolvimento e em processo de revisão.
 
