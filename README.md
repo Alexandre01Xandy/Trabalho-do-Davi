@@ -62,9 +62,7 @@ O objetivo do projeto é organizar conteúdos de estudo e praticar conceitos de 
 
 
 
-\* Integrante 1: SEU NOME
-
-\* Integrante 2: NOME DA CONTA 2
+Fiz Sozinho usei duas contas a segunda é a alexandredeoliveiraalvares14-source
 
 
 
@@ -96,5 +94,9 @@ As alterações são revisadas antes de serem mescladas ao branch main.
 
 
 
+
+Projeto em desenvolvimento para fins acadêmicos e de aprendizado.
+
 Projeto concluído para fins acadêmicos.
+
 
