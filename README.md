@@ -92,9 +92,9 @@ As alterações são revisadas antes de serem mescladas ao branch main.
 
 
 
-\## Status
+<<<<<<< HEAD
 
+=======
 
-
-Projeto concluído para fins acadêmicos.
+>>>>>>> main
 
