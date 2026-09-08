@@ -96,7 +96,5 @@ As alterações são revisadas antes de serem mescladas ao branch main.
 
 
 
-Projeto concluído como atividade acadêmica.
-
-
+Projeto concluído para fins acadêmicos.
 
