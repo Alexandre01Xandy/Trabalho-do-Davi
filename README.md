@@ -56,9 +56,7 @@ O objetivo é praticar:
 
 
 
-\* Integrante 1: SEU NOME
-
-\* Integrante 2: NOME DA SEGUNDA CONTA
+Fiz Sozinho 
 
 
 
