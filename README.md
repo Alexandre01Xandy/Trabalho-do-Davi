@@ -6,11 +6,11 @@
 
 
 
-Este projeto foi desenvolvido para praticar os conceitos básicos de Git e GitHub.
+Este projeto consiste em uma lista de estudos voltada para programação e tecnologia.
 
 
 
-A proposta é criar uma lista simples de assuntos para estudo e utilizar o Git para registrar as alterações realizadas durante o desenvolvimento.
+O projeto foi desenvolvido como atividade prática para simular um fluxo de desenvolvimento colaborativo utilizando Git e GitHub.
 
 
 
@@ -30,25 +30,31 @@ A proposta é criar uma lista simples de assuntos para estudo e utilizar o Git p
 
 \* Lógica de programação
 
+\* Banco de dados
+
 
 
 \## Objetivo
 
 
 
-O objetivo é praticar:
+O objetivo do projeto é organizar conteúdos de estudo e praticar conceitos de desenvolvimento colaborativo, incluindo:
 
 
 
-\* Criação de um repositório;
+\* Branches;
 
-\* Criação e alteração de arquivos;
+\* Commits;
 
-\* Registro de alterações com commits;
+\* Pull Requests;
 
-\* Organização do histórico do projeto;
+\* Revisão de código;
 
-\* Envio do projeto para o GitHub.
+\* Resolução de conflitos;
+
+\* Issues;
+
+\* Versionamento.
 
 
 
@@ -56,7 +62,9 @@ O objetivo é praticar:
 
 
 
-Fiz Sozinho usei duas contas a segunda é a alexandredeoliveiraalvares14-source
+\* Integrante 1: SEU NOME
+
+\* Integrante 2: NOME DA CONTA 2
 
 
 
@@ -72,38 +80,23 @@ Fiz Sozinho usei duas contas a segunda é a alexandredeoliveiraalvares14-source
 
 
 
+\## Fluxo de desenvolvimento
+
+
+
+Cada integrante trabalha em seu próprio branch, realiza alterações e envia um Pull Request para o branch principal.
+
+
+
+As alterações são revisadas antes de serem mescladas ao branch main.
+
+
+
 \## Status
 
 
 
-Projeto desenvolvido para fins acadêmicos e de aprendizado.
+Projeto concluído como atividade acadêmica.
 
 
-
-
-
-
-## Organização
-
-
-
-Os conteúdos foram organizados para facilitar o acompanhamento dos estudos.
-
-
-
-
-
-\## Aprendizados
-
-
-
-Durante a atividade foram praticados os comandos básicos do Git, incluindo init, add, commit, status, log e push.
-
-
-
-## Status do projeto
-
-
-
-A estrutura inicial do projeto foi concluída e o repositório está organizado no GitHub.
 
